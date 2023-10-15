@@ -1,0 +1,15 @@
+h1 {
+    color:#FF6347;
+    font-size: 64px;
+    font-family: "Brush Script MT", sans-serif;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+ul {
+    text-align: center;
+}
